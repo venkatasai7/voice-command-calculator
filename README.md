@@ -1,7 +1,7 @@
 # voice-command-calculator
 This is a Tkinter calculator application which is also capable of performing voice command calculations. This applications uses "SPEECH RECOGNITION" module.
 
-This is how the calculator looks
+This is how the calculator looks.\n
 we need to click on the microphone button.
 ![image](https://user-images.githubusercontent.com/87575630/191976475-b4dbe654-138e-489b-8486-ea6412e63e79.png)
 
